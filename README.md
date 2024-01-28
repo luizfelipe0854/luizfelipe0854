@@ -24,7 +24,7 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="luizfelipedemeloazevedo@gmai.com" target="_blank">
+<a href="luizfelipedemeloazevedo@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/luizfelipedemeloazevedo/" target="_blank">
